@@ -1,0 +1,88 @@
+{
+  "songs": [
+    {
+      "id": 123748797084482,
+      "title": "Galantis Runaway",
+      "category": "Mixtape",
+      "playbackSpeed": 0.50,
+      "image": "rbxassetid://126710193534518"
+    },
+    {
+      "id": 73587092639016,
+      "title": "Indobounce 1",
+      "category": "Indobounce",
+      "playbackSpeed": 0.50,
+      "image": "rbxassetid://126710193534518"
+    },
+        {
+      "id": 96403204296677,
+      "title": "Indobounce 2",
+      "category": "Indobounce",
+      "playbackSpeed": 0.50,
+      "image": "rbxassetid://126710193534518"
+    },
+        {
+      "id": 90287612897304,
+      "title": "Indobounce 3",
+      "category": "Indobounce",
+      "playbackSpeed": 0.50,
+      "image": "rbxassetid://126710193534518"
+    },
+            {
+      "id": 71166407947338,
+      "title": "Indobounce 4",
+      "category": "Indobounce",
+      "playbackSpeed": 0.50,
+      "image": "rbxassetid://126710193534518"
+    },
+            {
+      "id": 109865113901498,
+      "title": "Indobounce 5",
+      "category": "Indobounce",
+      "playbackSpeed": 0.50,
+      "image": "rbxassetid://126710193534518"
+    },
+            {
+      "id": 138206044419006,
+      "title": "Mixtape 1",
+      "category": "kidot",
+      "playbackSpeed": 0.50,
+      "image": "rbxassetid://97036171444024"
+    },
+                {
+      "id": 86013139896954,
+      "title": "Mixtape 2",
+      "category": "kidot",
+      "playbackSpeed": 0.50,
+      "image": "rbxassetid://97036171444024"
+    },
+                    {
+      "id": 82162312291241,
+      "title": "Mixtape 3",
+      "category": "kidot",
+      "playbackSpeed": 0.50,
+      "image": "rbxassetid://97036171444024"
+    },
+                        {
+      "id": 98777946988126,
+      "title": "Mixtape 4",
+      "category": "kidot",
+      "playbackSpeed": 0.50,
+      "image": "rbxassetid://97036171444024"
+    },
+                            {
+      "id": 97880255690566,
+      "title": "Mixtape 5",
+      "category": "kidot",
+      "playbackSpeed": 0.50,
+      "image": "rbxassetid://97036171444024"
+    },
+                                {
+      "id": 80381012996735,
+      "title": "set 1",
+      "category": "setlist",
+      "playbackSpeed": 0.50,
+      "image": "rbxassetid://97036171444024"
+    }
+  ]
+}
